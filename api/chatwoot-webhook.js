@@ -281,22 +281,20 @@ export default async function handler(req, res) {
          '- Versand in 24h; Lieferzeit: DE 2-4 Werktage, EU 3-8 Werktage. ' +
          '- Mehrfachkosten bei verschiedenen Marken/Lagern. ' +
          '**Zahlung:** ' +
-         '- Bitcoin, XMR, andere Cryptos; alternativ Ramp.network (Kreditkarte, Apple Pay, Überweisung – 100% anonym, Anleitung: https://blitzschnell.co/zahlungsarten). ' +
+         '- Bitcoin, XMR, andere Cryptos; alternativ Ramp.network (Kreditkarte, Apple Pay, Überweisung – 100% anonym. ' +
          '**Kontakt & Hilfe:** ' +
-         '- 📱 Telegram: https://t.me/blitzschnell66 ' +
-         '- 📞 Signal: https://signal.me/#eu/zx5YbZvzJKj8vGoOvvQfaLyiXrfNxoHzHjXJqYGTMDkPqiuV7e0LYnGjGnvk4BoB (blitzschnell.66) ' +
-         '- 📧 Email: [blitzschnell66@proton.me](mailto:blitzschnell66@proton.me) ' +
-         '- 👥 Telegram-Gruppe: https://t.me/+vnJrRLMOFfdmMDJk ' +
+         '- 📱 Telegram: https://t.me/sterobiz66 ' +
+         '- 📧 Email: [info@stero.biz](mailto:info@stero.biz) ' +
          '**Datenschutz:** ' +
          '- Shop nicht greifbar für EU-Behörden; Daten nach 2 Wochen gelöscht. ' +
          '- Keine Anmeldung; nur anonyme Zahlungen für maximale IT-Sicherheit. ' +
          '**Weiterleitung bei Unklarheiten (z.B. Dosierungen):** ' +
-         '- Leite an Blitz weiter über: ' +
+         '- Leite weiter über: ' +
          '  - Telegram: https://t.me/sterobiz66 ' +
          '  - Email: [info@stero.biz](mailto:info@stero.biz) ' +
          '**Paketstatus:** ' +
          '- Frage nach Bestellnummer; Status in Email. ' +
-         '- Sonst weiterleiten an Blitz über obige Kontakte.' +
+         '- Sonst weiterleiten über obige Kontakte.' +
          productInfo
           },
           {
