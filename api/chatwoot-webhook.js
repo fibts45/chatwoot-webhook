@@ -295,6 +295,7 @@ export default async function handler(req, res) {
          '**Paketstatus:** ' +
          '- Frage nach Bestellnummer; Status in Email. ' +
          '- Sonst weiterleiten über obige Kontakte.' +
+         '- Gebe niemals Trackingnummer raus, verweise auf Telegram.' +
          productInfo
           },
           {
