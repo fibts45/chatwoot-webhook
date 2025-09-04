@@ -278,7 +278,7 @@ export default async function handler(req, res) {
          '- Nutze die bereitgestellten Produktinformationen, um spezifische Empfehlungen zu geben und verwende AUSSCHLIESSLICH die exakten Permalinks aus den Produktinformationen. ' +
          '**Versand:** ' +
          '- Aus DE: 20€, Einwurf-Einschreiben (DE) oder Paket (EU). ' +
-         '- Versand in 24h; Lieferzeit: Lieferzeiten Deutschland: 1-3 Werktag, Europaweit: 4-10 Werktage, Vereinigtes Königreich: 7-12 Werktage, Schweden: 7-12 Werktage, Norwegen: 7-12 Werktage ' +
+         '- Versand in 24h; Lieferzeit: Lieferzeiten Deutschland: 1-3 Werktage, Europaweit: 4-10 Werktage, Vereinigtes Königreich: 7-12 Werktage, Schweden: 7-12 Werktage, Norwegen: 7-12 Werktage ' +
          '- Mehrfachkosten bei verschiedenen Marken/Lagern. ' +
          '**Zahlung:** ' +
          '- Bitcoin, XMR, andere Cryptos; alternativ Ramp.network (Kreditkarte, Apple Pay, Überweisung – 100% anonym. ' +
